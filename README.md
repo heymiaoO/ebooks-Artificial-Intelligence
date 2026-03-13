@@ -1,6 +1,9 @@
 # ebooks-Artificial-Intelligence
 book/ebook/AI/Artificial Intelligence/Machine Learning/Deep Learning/书籍/电子书/人工智能/机器学习/深度学习
 
+## Contact information
+* WeChat：**haodong_gao**
+
 ## Books
 - 1《现代模式识别》-孙即祥.pdf
 - 2 AI Techniques for Game Programming.pdf
